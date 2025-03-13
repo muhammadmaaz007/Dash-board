@@ -26,6 +26,22 @@ const products = [
   { name: 'Product 6', price: '$35' },
   { name: 'Product 7', price: '$20' },
   { name: 'Product 8', price: '$40' },
+  { name: 'Product 9', price: '$19' },
+  { name: 'Product 10', price: '$23' },
+  { name: 'Product 11', price: '$28' },
+  { name: 'Product 12', price: '$34' },
+  { name: 'Product 13', price: '$26' },
+  { name: 'Product 14', price: '$32' },
+  { name: 'Product 15', price: '$21' },
+  { name: 'Product 16', price: '$36' },
+  { name: 'Product 17', price: '$29' },
+  { name: 'Product 18', price: '$31' },
+  { name: 'Product 19', price: '$24' },
+  { name: 'Product 20', price: '$38' },
+  { name: 'Product 21', price: '$33' },
+  { name: 'Product 22', price: '$39' },
+  { name: 'Product 23', price: '$37' },
+  { name: 'Product 24', price: '$41' },
 ];
 
 export default function BasicGrid() {
